@@ -11,7 +11,7 @@
 
 ## 🛠 Tech Stack
 
-```
+
 | **Category** | **Technology** |
 | :--- | :--- |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) ![Stitch AI](https://img.shields.io/badge/Stitch_AI-000000?style=for-the-badge&logo=icloud&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) |
@@ -19,7 +19,7 @@
 | **AI & RAG** | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![Chroma](https://img.shields.io/badge/Chroma_DB-4EAA25?style=for-the-badge&logo=google-cloud&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Architecture-blue?style=for-the-badge) <br> ![Tesseract](https://img.shields.io/badge/Tesseract_OCR-211F1F?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=sparkar&logoColor=black) |
 | **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-FF6A00?style=for-the-badge&logo=github&logoColor=white) |
 | **Server** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
-```
+
 
 ## ⚡ Quick Start
 
@@ -27,7 +27,7 @@
 
 - You should have `GOOGLE_CLIENT_ID` + `GOOGLE_CLIENT_SECRET`
   - https://console.developers.google.com/?hl=zh-tw
-    ![image.png](attachment:50dd6fb5-8457-4dc4-bdc0-6a32a5f9e478:image.png)
+    (https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/oauth%20settings.png?raw=true)
 
 ### Installation
 
@@ -176,13 +176,15 @@ libro-library/
 - 🔍 **Automated Smart Book Detection** improves retrieval accuracy through a unique implementation of the `difflib` library and `SequenceMatcher` algorithm, which intelligently identifies the most relevant book from a user’s query even when the title provided is partial or slightly imprecise.
 
 ## 🗄 Database Schema
-
+(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/db.png?raw=true)
 ## 🖼 UI & Demo
 
 ### Home + Auth Page
-
+(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/libro%20auth%20process.gif?raw=true)
 ### Manipulation Books
-
+(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/library%20add%20book.gif?raw=true)
+(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/library%20Edit%20,%20Favorites,%20Delete%20gif.gif?raw=true)
 ### SEO
-
-### Settings
+(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/SEO%20favorites,%20notes%20gif.gif?raw=true)
+### Chatbot
+(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/chat%20bot%20gif.gif?raw=true)
