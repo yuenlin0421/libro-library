@@ -27,7 +27,7 @@
 
 - You should have `GOOGLE_CLIENT_ID` + `GOOGLE_CLIENT_SECRET`
   - https://console.developers.google.com/?hl=zh-tw
-    (https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/oauth%20settings.png?raw=true)
+    ![image](https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/oauth%20settings.png?raw=true)
 
 ### Installation
 
@@ -176,15 +176,15 @@ libro-library/
 - 🔍 **Automated Smart Book Detection** improves retrieval accuracy through a unique implementation of the `difflib` library and `SequenceMatcher` algorithm, which intelligently identifies the most relevant book from a user’s query even when the title provided is partial or slightly imprecise.
 
 ## 🗄 Database Schema
-(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/db.png?raw=true)
+![image](https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/db.png?raw=true)
 ## 🖼 UI & Demo
 
 ### Home + Auth Page
-(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/libro%20auth%20process.gif?raw=true)
+![image](https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/libro%20auth%20process.gif?raw=true)
 ### Manipulation Books
-(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/library%20add%20book.gif?raw=true)
-(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/library%20Edit%20,%20Favorites,%20Delete%20gif.gif?raw=true)
+![image](https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/library%20add%20book.gif?raw=true)
+![image](https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/library%20Edit%20,%20Favorites,%20Delete%20gif.gif?raw=true)
 ### SEO
-(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/SEO%20favorites,%20notes%20gif.gif?raw=true)
+![image](https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/SEO%20favorites,%20notes%20gif.gif?raw=true)
 ### Chatbot
-(https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/chat%20bot%20gif.gif?raw=true)
+![image](https://github.com/yuenlin0421/libro-library/blob/main/README%20images%20and%20gifs%20compress/chat%20bot%20gif.gif?raw=true)
