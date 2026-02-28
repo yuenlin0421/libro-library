@@ -1,0 +1,70 @@
+# ---系統與環境變數---
+.DS_Store
+*.pem
+.env
+.env*
+!.env.example
+.venv/
+env/
+venv/
+ENV/
+
+# ---Python / Django---
+__pycache__/
+*.py[oc]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.python-version
+
+# Django 數據庫與日誌
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# ---Gunicorn / 伺服器 (解決你報錯的關鍵)---
+*.ctl
+*.sock
+*.pid
+# 針對你報錯的具體檔案
+backend/gunicorn.ctl
+
+# ---Node / Next.js---
+node_modules/
+/out/
+/.next/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# 測試與除錯
+/coverage
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.vercel
+*.tsbuildinfo
+next-env.d.ts
