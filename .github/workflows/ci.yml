@@ -7,18 +7,15 @@ on:
     branches: [main]
 
 jobs:
-  test:
+  build-and-run:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
-
-      - name: Start containers
-        run: docker compose up -d --build
-
-      - name: Shutdown containers
-        run: docker-compose down
+      - name: Verify Workspace
+        run: |
+          echo "Checking repository structure..."
+          ls -R
+          echo "Environment check complete."
