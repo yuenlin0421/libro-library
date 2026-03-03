@@ -42,7 +42,7 @@
        GOOGLE_CLIENT_SECRET=
 
        # Django
-       SECRET_KEY=django-insecure-m16bnu*e7nkboin&a=+$))3mst_e#%(@h_3g6kvsdirap5z-%x
+       SECRET_KEY=
        # DJANGO_SECRET_KEY=your-secret-key-here
        DEBUG=True
        # DJANGO_DEBUG=False
@@ -64,7 +64,7 @@
 
        # Frontend
        NEXT_PUBLIC_API_URL=http://localhost:8000
-       NEXT_PUBLIC_GOOGLE_CLIENT_ID=283981770088-dud5v1g7sm6pout2cnic24rqudqsh53p.apps.googleusercontent.com
+       NEXT_PUBLIC_GOOGLE_CLIENT_ID=
        NEXT_PUBLIC_REDIRECT_URI=http://localhost:3000/login
 
        ```
@@ -84,7 +84,7 @@
 
        # Frontend
        NEXT_PUBLIC_API_URL=http://localhost:8000
-       NEXT_PUBLIC_GOOGLE_CLIENT_ID=283981770088-dud5v1g7sm6pout2cnic24rqudqsh53p.apps.googleusercontent.com
+       NEXT_PUBLIC_GOOGLE_CLIENT_ID=
        NEXT_PUBLIC_REDIRECT_URI=http://localhost:3000/login
 
        ```
